@@ -1,0 +1,7 @@
+XLODBC
+1
+DSN=Excel Files;DBQ=C:\Users\Anton\Documents\Договор.xlsx;DefaultDir=C:\Users\Anton\Documents;DriverId=1046;MaxBufferSize=2048;PageTimeout=5;
+SELECT Договор.Код_договора, Договор.Сумма_страхов, Договор.Дата_заключ_дог, Договор.Код_клиента, Договор.Код_вида_страхов, Договор.Код_филиала  FROM `C:\Users\Anton\Documents\Договор.xlsx`.Договор Договор  WHERE (Договор.Сумма_страхов>?)
+Введите сумму
+8
+Код_договора	Сумма_страхов	Дата_заключ_дог	Код_клиента	Код_вида_страхов	Код_филиала

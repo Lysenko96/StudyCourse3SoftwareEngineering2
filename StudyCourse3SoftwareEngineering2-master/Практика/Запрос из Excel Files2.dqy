@@ -1,0 +1,7 @@
+XLODBC
+1
+DSN=Excel Files;DBQ=C:\Users\Anton\Documents\Клиенты.xlsx;DefaultDir=C:\Users\Anton\Documents;DriverId=1046;MaxBufferSize=2048;PageTimeout=5;
+SELECT Клиенты.Код_клиента, Клиенты.Фамилия, Клиенты.Имя, Клиенты.Отчество, Клиенты.Дата_рождения, Клиенты.Код_соц_полож  FROM `C:\Users\Anton\Documents\Клиенты.xlsx`.Клиенты Клиенты  WHERE (Клиенты.Дата_рождения>?)
+Введите дату
+11
+Код_клиента	Фамилия	Имя	Отчество	Дата_рождения	Код_соц_полож
