@@ -1,6 +1,1 @@
-![Иллюстрация к проекту](https://github.com/Lysenko96/repo/raw/master/UMLUseCase.png)
-![Иллюстрация к проекту](https://github.com/Lysenko96/repo/raw/master/UMLDeployment.png)
-![Иллюстрация к проекту](https://github.com/Lysenko96/repo/raw/master/UMLStatechart.png)
-![Иллюстрация к проекту](https://github.com/Lysenko96/repo/raw/master/UMLActivity.png)
-![Иллюстрация к проекту](https://github.com/Lysenko96/repo/raw/master/UMLSequence.png)
-![Иллюстрация к проекту](https://github.com/Lysenko96/repo/raw/master/UMLCollaboration.png)
+
