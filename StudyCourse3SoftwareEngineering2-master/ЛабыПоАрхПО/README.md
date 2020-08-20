@@ -1,0 +1,6 @@
+![UMLUseCase](https://github.com/Lysenko96/repo/raw/master/UMLUseCase.png)
+![UMLDeployment](https://github.com/Lysenko96/repo/raw/master/UMLDeployment.png)
+![UMLStatechar](https://github.com/Lysenko96/repo/raw/master/UMLStatechart.png)
+![UMLActivity](https://github.com/Lysenko96/repo/raw/master/UMLActivity.png)
+![UMLSequence](https://github.com/Lysenko96/repo/raw/master/UMLSequence.png)
+![UMLCollaboration](https://github.com/Lysenko96/repo/raw/master/UMLCollaboration.png)
