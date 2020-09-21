@@ -16,6 +16,5 @@
 
 ![CommandAndConfigPC6AndPingPC2](https://github.com/Lysenko96/repo/raw/master/cisco/Cisco8.png)
 
-
 ![text](https://github.com/Lysenko96/repo/raw/master/1.txt)
 
